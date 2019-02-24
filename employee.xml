@@ -1,0 +1,27 @@
+<?xml version="1.0" standalone="yes"?>
+<Employee EmployeeNumber="2">
+	<DocumentId>d627b697-909e-4aa0-b2c0-0f76e2dda898</DocumentId>
+	<Name>Rock</Name>
+	<Department DepartmentNumber="20">
+		<Name>SALES</Name>
+		<Location>
+			<Country>Singapore</Country>
+		</Location>
+	</Department>
+	<address id="SN1">
+		<Type>Permanent</Type>
+		<Country>Singapore</Country>
+	</address>
+	<Referrals>
+		<ReferralId>5</ReferralId>
+		<Name>Jack</Name>
+		<Skill>HR</Skill>
+	</Referrals>
+	<Referrals>
+		<ReferralId>6</ReferralId>
+		<Name>Kane</Name>
+		<Skill>Sales</Skill>
+	</Referrals>
+	<Salary Currency="SGD">2000</Salary>
+	<FileId>d627b697-909e-4aa0-b2c0-0f76e2dda898</FileId>
+</Employee>
